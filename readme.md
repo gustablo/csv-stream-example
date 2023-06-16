@@ -1,0 +1,1 @@
+this project is an example of how to use nodejs streams to process big files per demand
